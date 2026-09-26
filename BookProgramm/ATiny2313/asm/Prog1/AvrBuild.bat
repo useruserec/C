@@ -1,2 +1,0 @@
-@ECHO OFF
-"C:\Program Files\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Программы\ATiny2313\asm\Prog1\labels.tmp" -fI -W+ie -o "C:\Программы\ATiny2313\asm\Prog1\Prog1.hex" -d "C:\Программы\ATiny2313\asm\Prog1\Prog1.obj" -e "C:\Программы\ATiny2313\asm\Prog1\Prog1.eep" -m "C:\Программы\ATiny2313\asm\Prog1\Prog1.map" -l "C:\Программы\ATiny2313\asm\Prog1\Prog1.lst" "C:\Программы\ATiny2313\asm\Prog1\Prog1.asm"

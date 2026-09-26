@@ -1,2 +1,0 @@
-@ECHO OFF
-"C:\Program Files\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\AVR\Book3\Tiny2313\asm\Prog9\labels.tmp" -fI -W+ie -o "C:\AVR\Book3\Tiny2313\asm\Prog9\Prog9.hex" -d "C:\AVR\Book3\Tiny2313\asm\Prog9\Prog9.obj" -e "C:\AVR\Book3\Tiny2313\asm\Prog9\Prog9.eep" -m "C:\AVR\Book3\Tiny2313\asm\Prog9\Prog9.map" -l "C:\AVR\Book3\Tiny2313\asm\Prog9\Prog9.lst" "C:\AVR\Book3\Tiny2313\asm\Prog9\Prog9.asm"
