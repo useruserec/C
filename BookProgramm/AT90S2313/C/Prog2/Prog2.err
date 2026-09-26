@@ -1,0 +1,16 @@
+Creating   'Prog2.eep'
+Creating   'Prog2.obj'
+Creating   'Prog2.lst'
+
+Assembling 'Prog2.asm'
+Including  'Prog2.vec'
+Including  'Prog2.inc'
+
+Program memory usage:
+Code             :   97 words
+Constants (dw/db):    1 words
+Unused           :    0 words
+Total            :   98 words
+
+Assembly complete with no errors.
+Deleting   'Prog2.eep'

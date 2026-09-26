@@ -1,0 +1,56 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.2</VERSION>
+ <DEVICE>ATtiny2313</DEVICE>
+ <WORKING_DIR>C:\AVR\Book3\Tiny2313\asm\Prog10</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\tn2313def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.hex</FILE>
+  <FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.eep</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <bufr><FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</FILE><LINE>36</LINE></bufr>
+  <klen><FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</FILE><LINE>44</LINE></klen>
+  <bufe><FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</FILE><LINE>45</LINE></bufe>
+  <start><FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</FILE><LINE>54</LINE></start>
+  <init><FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</FILE><LINE>80</LINE></init>
+  <propr><FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</FILE><LINE>305</LINE></propr>
+  <main><FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</FILE><LINE>120</LINE></main>
+  <m0><FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</FILE><LINE>124</LINE></m0>
+  <incod><FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</FILE><LINE>218</LINE></incod>
+  <m1><FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</FILE><LINE>127</LINE></m1>
+  <m2><FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</FILE><LINE>130</LINE></m2>
+  <m3><FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</FILE><LINE>136</LINE></m3>
+  <wait><FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</FILE><LINE>249</LINE></wait>
+  <m5><FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</FILE><LINE>140</LINE></m5>
+  <m7><FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</FILE><LINE>159</LINE></m7>
+  <m6><FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</FILE><LINE>154</LINE></m6>
+  <m9><FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</FILE><LINE>181</LINE></m9>
+  <eewr><FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</FILE><LINE>275</LINE></eewr>
+  <m8><FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</FILE><LINE>172</LINE></m8>
+  <m11><FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</FILE><LINE>202</LINE></m11>
+  <eerd><FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</FILE><LINE>287</LINE></eerd>
+  <m13><FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</FILE><LINE>208</LINE></m13>
+  <m10><FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</FILE><LINE>191</LINE></m10>
+  <ic1><FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</FILE><LINE>223</LINE></ic1>
+  <ic2><FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</FILE><LINE>227</LINE></ic2>
+  <ic3><FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</FILE><LINE>232</LINE></ic3>
+  <ic4><FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</FILE><LINE>237</LINE></ic4>
+  <ic5><FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</FILE><LINE>244</LINE></ic5>
+  <w1><FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</FILE><LINE>254</LINE></w1>
+  <w2><FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</FILE><LINE>256</LINE></w2>
+  <w4><FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</FILE><LINE>271</LINE></w4>
+  <w3><FILE>C:\AVR\Book3\Tiny2313\asm\Prog10\Prog10.asm</FILE><LINE>266</LINE></w3>
+ </LABELS>
+</ASSEMBLER_INFO>

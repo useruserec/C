@@ -1,0 +1,16 @@
+Creating   'Prog9.eep'
+Creating   'Prog9.obj'
+Creating   'Prog9.lst'
+
+Assembling 'Prog9.asm'
+Including  'Prog9.vec'
+Including  'Prog9.inc'
+
+Program memory usage:
+Code             :  169 words
+Constants (dw/db):  329 words
+Unused           :    0 words
+Total            :  498 words
+
+Assembly complete with no errors.
+Deleting   'Prog9.eep'

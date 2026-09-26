@@ -1,0 +1,15 @@
+Creating   'Prog10.eep'
+Creating   'Prog10.obj'
+Creating   'Prog10.lst'
+
+Assembling 'Prog10.asm'
+Including  'Prog10.vec'
+Including  'Prog10.inc'
+
+Program memory usage:
+Code             :  310 words
+Constants (dw/db):    1 words
+Unused           :    0 words
+Total            :  311 words
+
+Assembly complete with no errors.

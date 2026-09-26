@@ -1,0 +1,15 @@
+Creating   'Prog11.eep'
+Creating   'Prog11.obj'
+Creating   'Prog11.lst'
+
+Assembling 'Prog11.asm'
+Including  'Prog11.vec'
+Including  'Prog11.inc'
+
+Program memory usage:
+Code             :  400 words
+Constants (dw/db):  383 words
+Unused           :    0 words
+Total            :  783 words
+
+Assembly complete with no errors.

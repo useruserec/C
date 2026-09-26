@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.2</VERSION>
+ <DEVICE>AT90S2313</DEVICE>
+ <WORKING_DIR>C:\AVR\Book3\AT90S2313\asm\Prog7</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\AVR\Book3\AT90S2313\asm\Prog7\Prog7.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\2313def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\AVR\Book3\AT90S2313\asm\Prog7\Prog7.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\AVR\Book3\AT90S2313\asm\Prog7\Prog7.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\AVR\Book3\AT90S2313\asm\Prog7\Prog7.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <buf><FILE>C:\AVR\Book3\AT90S2313\asm\Prog7\Prog7.asm</FILE><LINE>23</LINE></buf>
+  <start><FILE>C:\AVR\Book3\AT90S2313\asm\Prog7\Prog7.asm</FILE><LINE>33</LINE></start>
+  <init><FILE>C:\AVR\Book3\AT90S2313\asm\Prog7\Prog7.asm</FILE><LINE>47</LINE></init>
+  <prtim1><FILE>C:\AVR\Book3\AT90S2313\asm\Prog7\Prog7.asm</FILE><LINE>103</LINE></prtim1>
+  <main><FILE>C:\AVR\Book3\AT90S2313\asm\Prog7\Prog7.asm</FILE><LINE>86</LINE></main>
+  <m1><FILE>C:\AVR\Book3\AT90S2313\asm\Prog7\Prog7.asm</FILE><LINE>92</LINE></m1>
+  <p2><FILE>C:\AVR\Book3\AT90S2313\asm\Prog7\Prog7.asm</FILE><LINE>122</LINE></p2>
+  <p1><FILE>C:\AVR\Book3\AT90S2313\asm\Prog7\Prog7.asm</FILE><LINE>115</LINE></p1>
+  <p3><FILE>C:\AVR\Book3\AT90S2313\asm\Prog7\Prog7.asm</FILE><LINE>128</LINE></p3>
+ </LABELS>
+</ASSEMBLER_INFO>

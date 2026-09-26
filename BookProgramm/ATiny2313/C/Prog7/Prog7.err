@@ -1,0 +1,16 @@
+Creating   'Prog7.eep'
+Creating   'Prog7.obj'
+Creating   'Prog7.lst'
+
+Assembling 'Prog7.asm'
+Including  'Prog7.vec'
+Including  'Prog7.inc'
+
+Program memory usage:
+Code             :  137 words
+Constants (dw/db):    1 words
+Unused           :    0 words
+Total            :  138 words
+
+Assembly complete with no errors.
+Deleting   'Prog7.eep'

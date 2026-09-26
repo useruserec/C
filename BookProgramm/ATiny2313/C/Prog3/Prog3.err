@@ -1,0 +1,16 @@
+Creating   'Prog3.eep'
+Creating   'Prog3.obj'
+Creating   'Prog3.lst'
+
+Assembling 'Prog3.asm'
+Including  'Prog3.vec'
+Including  'Prog3.inc'
+
+Program memory usage:
+Code             :  124 words
+Constants (dw/db):    1 words
+Unused           :    0 words
+Total            :  125 words
+
+Assembly complete with no errors.
+Deleting   'Prog3.eep'

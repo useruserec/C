@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.2</VERSION>
+ <DEVICE>ATtiny2313</DEVICE>
+ <WORKING_DIR>C:\AVR\Book3\Tiny2313\asm\Prog5</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\AVR\Book3\Tiny2313\asm\Prog5\Prog5.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\tn2313def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\AVR\Book3\Tiny2313\asm\Prog5\Prog5.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\AVR\Book3\Tiny2313\asm\Prog5\Prog5.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\AVR\Book3\Tiny2313\asm\Prog5\Prog5.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\AVR\Book3\Tiny2313\asm\Prog5\Prog5.asm</FILE><LINE>50</LINE></main>
+  <m3><FILE>C:\AVR\Book3\Tiny2313\asm\Prog5\Prog5.asm</FILE><LINE>67</LINE></m3>
+  <m1><FILE>C:\AVR\Book3\Tiny2313\asm\Prog5\Prog5.asm</FILE><LINE>56</LINE></m1>
+  <m2><FILE>C:\AVR\Book3\Tiny2313\asm\Prog5\Prog5.asm</FILE><LINE>57</LINE></m2>
+  <wait1><FILE>C:\AVR\Book3\Tiny2313\asm\Prog5\Prog5.asm</FILE><LINE>79</LINE></wait1>
+  <m4><FILE>C:\AVR\Book3\Tiny2313\asm\Prog5\Prog5.asm</FILE><LINE>68</LINE></m4>
+  <wt1><FILE>C:\AVR\Book3\Tiny2313\asm\Prog5\Prog5.asm</FILE><LINE>84</LINE></wt1>
+  <wt4><FILE>C:\AVR\Book3\Tiny2313\asm\Prog5\Prog5.asm</FILE><LINE>94</LINE></wt4>
+  <wt2><FILE>C:\AVR\Book3\Tiny2313\asm\Prog5\Prog5.asm</FILE><LINE>87</LINE></wt2>
+  <wt3><FILE>C:\AVR\Book3\Tiny2313\asm\Prog5\Prog5.asm</FILE><LINE>90</LINE></wt3>
+ </LABELS>
+</ASSEMBLER_INFO>

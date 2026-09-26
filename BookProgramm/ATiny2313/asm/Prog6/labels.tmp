@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.2</VERSION>
+ <DEVICE>ATtiny2313</DEVICE>
+ <WORKING_DIR>C:\AVR\Book3\Tiny2313\asm\Prog6</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\AVR\Book3\Tiny2313\asm\Prog6\Prog6.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\tn2313def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\AVR\Book3\Tiny2313\asm\Prog6\Prog6.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\AVR\Book3\Tiny2313\asm\Prog6\Prog6.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\AVR\Book3\Tiny2313\asm\Prog6\Prog6.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\AVR\Book3\Tiny2313\asm\Prog6\Prog6.asm</FILE><LINE>56</LINE></main>
+  <m3><FILE>C:\AVR\Book3\Tiny2313\asm\Prog6\Prog6.asm</FILE><LINE>73</LINE></m3>
+  <m1><FILE>C:\AVR\Book3\Tiny2313\asm\Prog6\Prog6.asm</FILE><LINE>62</LINE></m1>
+  <m2><FILE>C:\AVR\Book3\Tiny2313\asm\Prog6\Prog6.asm</FILE><LINE>63</LINE></m2>
+  <wait1><FILE>C:\AVR\Book3\Tiny2313\asm\Prog6\Prog6.asm</FILE><LINE>85</LINE></wait1>
+  <m4><FILE>C:\AVR\Book3\Tiny2313\asm\Prog6\Prog6.asm</FILE><LINE>74</LINE></m4>
+  <wt1><FILE>C:\AVR\Book3\Tiny2313\asm\Prog6\Prog6.asm</FILE><LINE>91</LINE></wt1>
+  <wt2><FILE>C:\AVR\Book3\Tiny2313\asm\Prog6\Prog6.asm</FILE><LINE>94</LINE></wt2>
+ </LABELS>
+</ASSEMBLER_INFO>
