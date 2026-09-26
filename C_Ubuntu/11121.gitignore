@@ -1,0 +1,16 @@
+*.hex
+*.obj
+*.lst
+*.map
+*.cof
+*.eep
+*.rom
+*.err
+*.c~
+*.pr~
+*.aps
+*.cwp
+*.prj
+*.vec
+*.inc
+*.txt
